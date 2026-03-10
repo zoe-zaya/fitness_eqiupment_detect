@@ -46,7 +46,8 @@
 ## 4.数据标注
 (1)工具选择：使用LabaelImg
 
-(2)在https://github.com/HumanSignal/labelImg/releases中下载windows_v1.8.1.zip，之后解压该压缩包，解压完成后启动labelImg.exe文件打开标注软件。
+(2)在https://github.com/HumanSignal/labelImg/releases
+中下载windows_v1.8.1.zip，之后解压该压缩包，解压完成后启动labelImg.exe文件打开标注软件。
 
 (3)进入labelImg文件夹中的data文件夹中并打开.txt文件，然后删除原有的所有标签，以防止对之后的标注工作产生妨碍。
 
